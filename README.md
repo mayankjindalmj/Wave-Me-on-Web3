@@ -13,3 +13,5 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+Check out this website where you can wave me and win some fake Ethers too!
+https://waveportal-starter-project.oyeejindal.repl.co/
